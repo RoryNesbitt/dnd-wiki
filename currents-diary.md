@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-08-03T21:50:13.310Z
+date: 2022-08-03T21:51:03.659Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -211,7 +211,7 @@ We went to hear the stories at the tree we talked about our lives and she offere
 
 Met with gene and that and spoke about what was done and got a bit emotional during the time so now gotten a wee talk about what Geoffrey did for mother Rotwood and other activities, now questioning what I do in this group.
 
-22nd of Solmum
+## 22nd of Solmum
 It was then that Trilla appeared and spoke more about the job, we went to the library to read up on basilisk and decided on trying to trap the beast, we got to its lair and followed all the way to the back, it was then we discovered that there were 2 of them and they trapped us, ironic really
 
 We managed to kill the 2 of them with no casualties but Geoff got a bit trauma cos one was frozen to death, we have used its oil to revivify her 3 companions  and get ourselves out of the cave. 
