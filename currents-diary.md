@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-08-03T21:51:03.659Z
+date: 2022-08-12T16:47:04.145Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -246,3 +246,18 @@ Making a stop at the iron fort to request Klinks release in exchange for taking 
 He was alright with us seeing him as long as he was being carefully watched by armed escort, we didn't refuse as we wanted to see him.. I wanted to see him again..
 
 As we see him we chat and find out about his growing revolution within the mines as well, gene and he have been looking at each other  quietly at points so I'm guessing they are speaking telepathically and she took a stumble in the heels she was wearing and was helped by the warden and Klink said we shouldn't apologise to these bastards in his words.
+
+## 24th of Solmum
+Said farewell to klink and made way back into elevator was told to remember klink was on the 85th level and bronanvil is on the 8th
+
+had a shoot at the range and a bath with bronanvils Mrs who has clued us in that in order for klink to be taken away without an uproar or chaos that he needed to "die" and I'm now going shopping with gene to get some clothes so we can have a meal, Geoffrey seems to have a plan in place
+
+got some clothes in the middle of it klink called me on a rocky talky (gene managed to sneak her one over to him) and just felt good getting to hear from him again, now making way to elevator and waiting for gene.
+
+had dinner with lady bronanvil and the others and we have discussed that we are going to try and say that lord bronanvil is a bit more tired and needs to give leadership to someone that can handle it (ie her) she has been given a tulip and I decided to go blow off some steam with a dwarf called bronn stone
+
+came back after we both got smacked onto the ground and drank a good amount of drinks and now sleeping it off in my room.
+
+woke to hearing that lord bronanvil has returned and has the results, he said he won't be released but may be moved to processing.
+
+met with vonda and now making way to the mountains.
