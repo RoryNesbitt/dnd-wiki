@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-08-12T16:47:04.145Z
+date: 2022-08-12T17:05:33.068Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -247,7 +247,7 @@ He was alright with us seeing him as long as he was being carefully watched by a
 
 As we see him we chat and find out about his growing revolution within the mines as well, gene and he have been looking at each other  quietly at points so I'm guessing they are speaking telepathically and she took a stumble in the heels she was wearing and was helped by the warden and Klink said we shouldn't apologise to these bastards in his words.
 
-## 24th of Solmum
+## 25th of Solmum
 Said farewell to klink and made way back into elevator was told to remember klink was on the 85th level and bronanvil is on the 8th
 
 had a shoot at the range and a bath with bronanvils Mrs who has clued us in that in order for klink to be taken away without an uproar or chaos that he needed to "die" and I'm now going shopping with gene to get some clothes so we can have a meal, Geoffrey seems to have a plan in place
