@@ -2,13 +2,11 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-08-12T17:05:33.068Z
+date: 2022-08-12T17:32:12.655Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
 ---
-
-#
 
 My real name given by my mother is Castor Star. And as she married Erdan Mellenye I am now Castor Star Mellenye
 
@@ -187,7 +185,7 @@ With the court case being done I was accused of being part of a cult somehow to 
 
 Didn't go well and the court has decided to offer him to work in the mines to live out his sentence
 
-## 21st of Solmum
+## 21st of SolMum
 Time skip to a week and we have a red frog in black robes by the name of Chester asking if we are the crimson gears and they said simply "viva la revolution"
 We have found out that Chester is quite murder happy and is a devout follower of the crimson King (Klink don't ever tell him that is his name) we are heading for one of the border towns to get some money making first watch for the Night, nothing occurred.
 
@@ -211,7 +209,7 @@ We went to hear the stories at the tree we talked about our lives and she offere
 
 Met with gene and that and spoke about what was done and got a bit emotional during the time so now gotten a wee talk about what Geoffrey did for mother Rotwood and other activities, now questioning what I do in this group.
 
-## 22nd of Solmum
+## 22nd of SolMum
 It was then that Trilla appeared and spoke more about the job, we went to the library to read up on basilisk and decided on trying to trap the beast, we got to its lair and followed all the way to the back, it was then we discovered that there were 2 of them and they trapped us, ironic really
 
 We managed to kill the 2 of them with no casualties but Geoff got a bit trauma cos one was frozen to death, we have used its oil to revivify her 3 companions  and get ourselves out of the cave. 
@@ -232,7 +230,7 @@ Having drinks at the blue rat and getting an insight to the criminal underworld 
 
 Got my clothes clothes books so now reading with Chester to learn dwarvish
 
-## 23rd of Solmum
+## 23rd of SolMum
 Woke up in morning and cooked rabbits went for a swim in pond to get Chester who walked out as I went in, now just wandering to find Vonda
 
 Been given a touch up on tattoo and been taught to swagger and have a charming but quiet sort of way of talking and be calmly threatening
@@ -247,7 +245,7 @@ He was alright with us seeing him as long as he was being carefully watched by a
 
 As we see him we chat and find out about his growing revolution within the mines as well, gene and he have been looking at each other  quietly at points so I'm guessing they are speaking telepathically and she took a stumble in the heels she was wearing and was helped by the warden and Klink said we shouldn't apologise to these bastards in his words.
 
-## 25th of Solmum
+## 1st of CynMar
 Said farewell to klink and made way back into elevator was told to remember klink was on the 85th level and bronanvil is on the 8th
 
 had a shoot at the range and a bath with bronanvils Mrs who has clued us in that in order for klink to be taken away without an uproar or chaos that he needed to "die" and I'm now going shopping with gene to get some clothes so we can have a meal, Geoffrey seems to have a plan in place
