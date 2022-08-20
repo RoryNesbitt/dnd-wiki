@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-08-20T21:43:15.767Z
+date: 2022-08-20T21:43:41.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -291,7 +291,7 @@ vonda apology went better and I revealed who I was before and got informed that 
 
 Chester apology was a bit more odd and it didn't feel as well done but he doesn't seem to be annoyed at me 
 
-## 6th if CynMar
+## 6th of CynMar
 making a stop at a stream for more water, gene is going off with Geoffrey to find some tulips and possibly veges, would be so much better for pur meals if they do but they made no promises
 
 now helping Chester test the soul stone and see how it works, it just reminds me of klink quite a bit, he has now embedded it into the rapier klink won and we have 2 rabbits for eats 
