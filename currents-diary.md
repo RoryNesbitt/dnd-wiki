@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-08-20T21:31:40.053Z
+date: 2022-08-20T21:43:15.767Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -272,3 +272,28 @@ came back after we both got smacked onto the ground and drank a good amount of d
 woke to hearing that lord bronanvil has returned and has the results, he said he won't be released but may be moved to processing.
 
 met with vonda and now making way to the mountains.
+
+## 2nd of CynMar
+making our way and learning some more dwarvish and picked up some water whilst at a spring, was given a shard that felt empty from Chester as he swam in the spring.
+
+we have made bets at our campsite for the night to try and capture a big animal to bring back, we made wagers and I tracked a young directly to its cave, made several attempts to catch a young direwolf but failed and sustained many injuries in the attempt, went back and geoffrey gave me so praise for trying to go for it, I gave genevieve directions to it, maybe she might succeed but don't want her dying for it.
+
+I worried for nothing, she caught it without even trying that hard... not bad, she did kill a dragon u wouldn't expect her to fail. she did better than I ever could, quite proud of her, I need to be better.
+
+## 3rd of CynMar
+Chester caught a bigger direwolf and we tried to hammer the stone into a deer that vonda caught and the stone appears to have taken life from it and dims a bit, Chester went  to do the dad direwolf but we protested we don't, only for Chester to do it anyway even though we tried to stop him, I attempted to keep it living but just made it suffer worse so put it out of its misery, the stone took its life but the deer life has disappeared, I dont condone what Chester did amd have given the soul stone to genevieve and said she is to keep it safe, right now my trust in Chester has diminished.
+
+got deer prepped for dinner for a bit and vonda has spoken with me about how I just seemed to think I was in the right and that I wasn't respecting the group as a whole and I didn't want to hear more so I tried to cut her off to just give my head a moment but she continued calling me rude for doing so and I sat up ready to drive when gene gave me a talking to saying that i need to improve my people skills and hurt my head, we are now riding,
+
+learning more dwarvish with gene and talking with her about apologising to vonda for treating her like a little girl and Chester about what transpired, giving him the stone back but the stone felt odd after being in the box with the dragon egg.
+
+vonda apology went better and I revealed who I was before and got informed that Geoffrey may not want to help in the fight that he is reluctant to do so so wanting to make sure he is OK. 
+
+Chester apology was a bit more odd and it didn't feel as well done but he doesn't seem to be annoyed at me 
+
+## 6th if CynMar
+making a stop at a stream for more water, gene is going off with Geoffrey to find some tulips and possibly veges, would be so much better for pur meals if they do but they made no promises
+
+now helping Chester test the soul stone and see how it works, it just reminds me of klink quite a bit, he has now embedded it into the rapier klink won and we have 2 rabbits for eats 
+
+gene and Geoff have been gone for 2 hours and I tried calling Geoff to check on them but got static, I don't like this
