@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-08-12T17:32:12.655Z
+date: 2022-08-20T21:31:40.053Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -14,6 +14,7 @@ I have 2 elven siblings from the noble house of Mellenye after I became a paladi
 
 Matron Rotwood of the witch clan Rotwood is in charge of the temple of Solace where I reside with Klink and his homunculus Barry (gearwork owl)
 
+## 24th of MarMun
 Ask Rotwood or Suuma about a person in white cloak with draconian symbols from Daadendrain average 6ft-ish height
 
 Cormac of the sapphire dragon riders is welcome in the temple of Solace as is his dragon companion Zho, he has seen battles and therefore is likeable in my eyes.
@@ -22,6 +23,7 @@ Orc chief (Gelcro) was wearing fancy clothing and asking Glen's (nice guy bit of
 
 Mother Rotwood was murdered, place of death in temple garden, there was diluted water (possibly blood) on the arm of her chair, in there garden there were 3 sets of humanoid footprints and 1 was mechanical paw prints of heavy nature, body itself had 6 individual stabs 2 on front most on back, 4 slashes on the arms, small nick in back of her hand. Not local blade was sharp and fine, she was holding sacrificial knife probably in defence.
 
+##!st of SolMun
 Brandon owner of the green mongoose Inn.
 
 Sister Wind (a member of the witch coven) is taking charge until the next matron is chosen for the temple of Solace, so far I do not like her as I feel she is getting a little big for her boots and has little patience. The matron guard are now keeping watch over the temple under the watchful eye of Captain Asper who I have met in the past.
@@ -34,6 +36,7 @@ Allan of the merchant guild is in the deals of endangered livestock. The dragon 
 
 Director General Eugene took me back to temple, I acted out of sister wind's orders which is getting me into a trial with the surviving matrons newt(main one), willow and avian, my guess is I am about to be stripped of my rank.
 
+## 2nd of SolMun
 Not stripped of paladin rank but instead of Knight I am paladin 3rd class
 
 Dragonborn belong to the Hand of Almandine keep investigating on behalf of the court of princes
@@ -59,12 +62,14 @@ Got ambushed in sewers after finding a box that heats up to create explosions, p
 
 Cormac is hunting down the last red dragonborn, asked us to keep box safe, Genevieve went to the library for something, I suspect books, Klink, Seb and I went to a general goods shop to see about potions and in Klinks case gears to make a clock, I asked about getting a watch of a sorts but to no success and I was told to go to the bazaar for that, taking Seb with me while Klink is going to temple to work on things.
 
+## 3rd of SolMun
 Went to a bathhouse before going to the bazaar and getting more frustrated with Seb, tried being nice and just met with scorn now I'm just past caring, went to bazaar and got a dragon flute made of nice metals to be an apology to Genevieve, going to temple to ask about if he just wants to be independent and free of me as a father figure and to be his own bird.
 
 Maybe I am trying too hard.. I just.. need to stop.. it's clearly not helping and I just need to stop.. I don't actually know what I am doing.. I was just going after small murders, I don't know how to go for a witch killing that clearly Klink and the others are doing far better than I am with, I disobeyed my order to spite a new witch cos I thought it might help, what do I know.. I'm an air genasi Paladin that can't follow orders.. so what do I become then?
 
 Said my words to Klink (he snuck out the room and I didn't know) about how proud I am of him and he can do things independently if he wants and then seeked Ann-Marie from the library to get some help playing the flute, she helped and I tried to improvise a little and she gave me a parchment with music notes that I do not understand, I will ask Genevieve if she can help me with this
 
+## 4th of SolMun
 Genevieve tore up the music note and taught me one tune to play, I cannot read her at all when it comes to her moods
 
 Cleric Jeremy continues to tease me and I am doing my best to fix anger and try not to punch him, I have been advised by Genevieve to take things less seriously and have more fun.
@@ -73,6 +78,7 @@ She has taken to eldritch blasting me anytime I act douchey towards anyone that 
 
 Zo (Cormacs dragon and Klinks friend) has come and asked who had it and we visited Alan and they shared a conversation in which Zo is going in the direction of the dragon embassy
 
+## 5th of SolMun
 Met with the leader of the embassy who was a brass dragon who essentially said the reason for losing the golden dragons through time was because they had a war for funsies and killed and massacred children and said it was no one's fault it was just in their nature, I went off on one after being in a war for essentially what was land and seeing the devastation first-hand and I don't see how he can sit there and feel OK with what happened considering we have a golden dragon child that we are being asked to hatch by the brass dragon Varym.
 
 I have went to the Palace to assist with sister wind's escort and asked for clarity in what has happened with Alan and Varym and she has said I am right to be bothered but offered in better words the clarity in not understanding the nature of others is a set thing, I have spotted my mother in the crowd at a gazebo with an older gentleman who has the sigil of a fox surrounded by a moon.
@@ -86,12 +92,14 @@ Red haired elf with reptile eyes (possible dragon) past through saying "find the
 
 Found the dragon and he pointed to the tree for where the egg is thinking we would help him but he tried to hurt Klink so I swung for Degarra (the red dragon)
 
+## 6th of SolMun
 We made our way and purchased bedrolls and I took the night ride, we were attacked by bandits and have now eliminated all but 2 of them, we questioned the leader which was an elder lady
 
 Klink was working on a sunroof for the carriage, we are now called the crimson gears, found out some things about Geoffrey
 
 Spoke about my dad, definitely didn't feel comfortable, now reading a book on yuanti to forget the conversation, we are making our way into a port town to get a ferry to transport the golden egg far away as possible.
 
+## 9th of SolMun
 We have left horses with a man called Ezekiel and are about to enter the leaky tavern, I am about to perform with Genevieve and Geoffrey (man can play a lyre)
 
 Performed decently well got a good sum of coin and ii felt quite good getting to sing and be rewarded for it, Genevieve is an amazing dancer but think I messed up her moves when having her dance in mid air, might ask if she would like to practice that if she would like to, though she might not, took me a while to move in the air when I did it as a lad haha.
@@ -100,11 +108,13 @@ Chatted with some sailors led by captain Gérard and he informed us of ship raid
 
 Got some new armour sang and got attention of McAllister who is offering an audience with the governor if we deal with the fishing problem
 
+## 10th of SolMun, Morning
 On board of the green lady (the ship we are on and helping defend)
 Having myself and three people on the front of the ship
 Seb is with the captain and 2 others at the helm
 Genevieve is up above and Klink and Geoffrey are sneaking onto the enemy ship when they arrive, Seb is setting traps so hopefully this will go off without a hitch.
 
+## 10th of SolMun
 We managed to eradicate the pirates and keep the 3 ships that attacked us, scrounged some rifles and ammo for them.
 
 Helped one of the sailors get a bit of healing and Klink has taken us to port to await captain Gérard and the authorities believe us to be pirates on account of Klink shouting that we were, I and Seb are waiting for Gérard's return to prove we are not pirates, I asked them to let McAllister know we have dealt with the problem but unsure if they will let him know, one has went off for the moment but uncertain if they are attending to other matters.
@@ -130,6 +140,7 @@ Dinner went well but Klink is getting into a duel with the governor thankfully i
 
 Currently (heheh) reading some cookbooks beginning with cooking 101 to try and see about getting better food for everyone whilst we are on the road or just staying somewhere.
 
+## 11th of SolMun
 Dreamt of home.. seeing my mother reading she looks upset until my new father stepped in and she lit up and my siblings rushed over hugging them mostly focusing on their father.
 
 Woke up and got food and now watching Klink fight the mayor, had conversations about my being too watchful of Klink and not letting him be his own person which led to me shouting that I wanted to be better than my father... I owe her an apology for that outburst.. she didn't deserve that.
@@ -150,6 +161,7 @@ Dragon is following us we made camp for the night, made a fairly decent meal
 
 Myrak was the dragon that was following us and we are being encircled by the dragonborn chasing us for the egg
 
+## 12th of SolMun
 We took care of the enemies around us and are being chased by a dragon, we make our way east to a Fort and there is a machine shooting things at the dragons wings and belly.
 
 Been taken into and underground waiting area and are being taken to infirmary for healing and to be questioned by Lord Morgran
@@ -175,6 +187,7 @@ Sister Wind is now mother Rotwood and matron of the clan
 
 We have now managed to get Genevieve off the hook, getting Geoffrey off the hook but we need to speak with the air elementals to see about this being a kidnapping and Klink justifiably freeing them from their enslavement.
 
+## 13th of SolMun
 Tried to talk with one of the elementals but figured out they have been reduced to being a clear stone so seeing about getting the priestess to dispel this enchantment so I can actually speak with them.
 
 Got Visstra to try dispel the stone but found out it needed to be broken open and release the elemental and now we are working to convince it to help us
@@ -185,7 +198,7 @@ With the court case being done I was accused of being part of a cult somehow to 
 
 Didn't go well and the court has decided to offer him to work in the mines to live out his sentence
 
-## 21st of SolMum
+## 21st of SolMun
 Time skip to a week and we have a red frog in black robes by the name of Chester asking if we are the crimson gears and they said simply "viva la revolution"
 We have found out that Chester is quite murder happy and is a devout follower of the crimson King (Klink don't ever tell him that is his name) we are heading for one of the border towns to get some money making first watch for the Night, nothing occurred.
 
@@ -209,7 +222,7 @@ We went to hear the stories at the tree we talked about our lives and she offere
 
 Met with gene and that and spoke about what was done and got a bit emotional during the time so now gotten a wee talk about what Geoffrey did for mother Rotwood and other activities, now questioning what I do in this group.
 
-## 22nd of SolMum
+## 22nd of SolMun
 It was then that Trilla appeared and spoke more about the job, we went to the library to read up on basilisk and decided on trying to trap the beast, we got to its lair and followed all the way to the back, it was then we discovered that there were 2 of them and they trapped us, ironic really
 
 We managed to kill the 2 of them with no casualties but Geoff got a bit trauma cos one was frozen to death, we have used its oil to revivify her 3 companions  and get ourselves out of the cave. 
@@ -230,7 +243,7 @@ Having drinks at the blue rat and getting an insight to the criminal underworld 
 
 Got my clothes clothes books so now reading with Chester to learn dwarvish
 
-## 23rd of SolMum
+## 23rd of SolMun
 Woke up in morning and cooked rabbits went for a swim in pond to get Chester who walked out as I went in, now just wandering to find Vonda
 
 Been given a touch up on tattoo and been taught to swagger and have a charming but quiet sort of way of talking and be calmly threatening
