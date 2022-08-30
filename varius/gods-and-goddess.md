@@ -2,7 +2,7 @@
 title: Names and functions of the deities of Varius
 description: 
 published: 1
-date: 2022-07-29T10:46:03.562Z
+date: 2022-08-30T20:19:31.037Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T10:46:03.562Z
@@ -26,7 +26,7 @@ She is also worshiped whenever an individual takes a lengthy and treacherous jou
 - God of death, nihilism and ends.  Depicted as an old man with a walking stick, they are seen as the one who follows everyone to their last steps.  no matter how fast they run or how far they go.  he is always there.  Worshipers who come to him pay a heavy price for his blessings.  Often they trade years of their life for small miracles.  Symbol two headed coin, one half skull and the other a human face. 
 
 ## Martoof 
-- god of war, domination and subjugation.  His guidance is given to those bold commanders who were willing to risk, or engage their enemy head on.  father of tacticians and stratagems.  He rules over all conflicts big or small.  from the Smallest of bar fights to pitch battles against armies of thousands.  He offers great boons to those whom he favours.  Symbol is a cross made from a sword and axe.
+- god of war, domination and subjugation.  His guidance is given to those bold commanders who were willing to risk, or engage their enemy head on.  father of tacticians and stratagems.  Creator of the angels that protect the material plane and mount celestia.  He rules over all conflicts big or small.  from the Smallest of bar fights to the great, endless war between the angels, devils and demons.  He offers great boons to those whom he favours.  Symbol is a cross made from a sword and axe.
 
 ## Solace 
 - The sun god, lord of fire, owner of hearths.  he commands the day and provides heat and warmth, in his own way giving life to the world.  worshiped along side of, and often confused or seen the same as, Kor'tac.  He is revered for being all seeing and all knowing when his light shines down.  only in the darkest of spaces can his eye be blinded.  symbol is simply a blazing golden sun. 
