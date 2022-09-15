@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-09-15T12:33:09.729Z
+date: 2022-09-15T12:34:43.693Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -326,7 +326,7 @@ We are still making plans but we did manage to get some explosives, Chester is p
 
 We have fought against mirak and just managed to kill it after it damaged us greatly and we are in the works of descaling it for armour for the carriage, horses and me, maybe klink as well.
 
-## 9th Cynmar
+## 9th of Cynmar
 
 Vonda and I are transporting some of the scales to Geoffrey and Chester has given us the great news that lady bronanvil will be releasing klink in exchange for the death of the dragon.
 Been advised by Geoffrey to stay out of the Daadenrian empire after having killed a second dragon. Geoffrey is going to get the rest of the scales whilst I collected the goats
@@ -336,7 +336,7 @@ Been advised by Geoffrey to stay out of the Daadenrian empire after having kille
 Making our way away from the mountains back towards the iron fortress again
 
 
-## 11th cynmar
+## 11th of CynMar
 
 Met up with Archibald who genevieve gave the essence of the dragon mirak to and Chester is showing the soul stone to him to see what it is.
 
@@ -350,22 +350,24 @@ Analysis is a nice beachfront holiday destination but is in daadendrien
 
 Some people are rumoured to have Genesis shards but unwilling to part with them
 
-## 14th cynmar
+## 14th of CynMar
 
 Finished learning dwarven
 
-## 15th cynmar
+## 15th of CynMar
 
 arrived back at the iron fortress and we are told that I we want klink we are to come to the gutters in Elemvault at our earliest convenience
 
 Adric gave us klinks arm saying he and a few others were killed in a mining accident and we were offered beds for the night, when I get the chance I'm going to get klink back and if they try to keep my boy from me I'll make them regret it.
+
+## 16th of CynMar
 
 Been kicked out of the iron fortress exiled the works, told the Lord and lady they can ask me for help if they wish but we bring chaos and death whenever we  appear 
 
 Made an agreement with Geoffrey about Chester and he is proud of me, I feel slightly sick but also feel like it isn't the wrong thing I am doing.. bit conflicted
 
 
-## 23rd cynmar 
+## 23rd of CynMar 
 
 Box is smoking and kicking about.. 
 
