@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-09-05T14:56:40.118Z
+date: 2022-09-15T12:33:09.729Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -359,3 +359,16 @@ Finished learning dwarven
 arrived back at the iron fortress and we are told that I we want klink we are to come to the gutters in Elemvault at our earliest convenience
 
 Adric gave us klinks arm saying he and a few others were killed in a mining accident and we were offered beds for the night, when I get the chance I'm going to get klink back and if they try to keep my boy from me I'll make them regret it.
+
+Been kicked out of the iron fortress exiled the works, told the Lord and lady they can ask me for help if they wish but we bring chaos and death whenever we  appear 
+
+Made an agreement with Geoffrey about Chester and he is proud of me, I feel slightly sick but also feel like it isn't the wrong thing I am doing.. bit conflicted
+
+
+## 23rd cynmar 
+
+Box is smoking and kicking about.. 
+
+We now have a baby gold dragon that is now  called lizzy, not certain 
+
+We encountered a young thief who seemed to be a lording but is a bit of a brat and Chester murdered him and before anything else could be done as genevieve told me to hold Chester goeffrey fired a shot at him and Chester has jumped off into the trees.
