@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-09-15T12:34:43.693Z
+date: 2022-09-28T18:53:41.262Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -374,3 +374,61 @@ Box is smoking and kicking about..
 We now have a baby gold dragon that is now  called lizzy, not certain 
 
 We encountered a young thief who seemed to be a lording but is a bit of a brat and Chester murdered him and before anything else could be done as genevieve told me to hold Chester goeffrey fired a shot at him and Chester has jumped off into the trees.
+
+Kid has now wandered toward village and now we are making way for klink 
+
+## 24th of cynmar 
+
+House selencia guards are asking us where we are heading and about a boy called Michael we assume it was the same one that got murdered 
+
+Had an interesting conversation with genevieve about her past, how her mother had made jewellery and sold them from a stall, she also showed me some scars from her past but won't elaborate on it but I have promised her to help take care of whoever did that to her 
+
+## 8th of mormun 
+
+We have arrived to Elemvault, me, Geoffrey and genevieve had discussed weird dreams we had though hers sounded amazing, it was to do with a ship that could take you to the stars themselves. Geoffrey has been invited to play chess and wound up naked,in involved a purple giraffe, a baby sized Griffin and a reverse centaur. 
+
+We have entered the city and the stalls are closed so we are making our way to find out where klink is. 
+
+Letting genevive and geoffrey get him whilst I keep dragon safe at the temple, Paladin Gregory has been made the head of the temple and has heard of a lot of what has happened but I kept genevieves escapades hidden 
+
+Also told him and showed him the golden dragon which he asked has not been born in a millenia and is now in a state of shock 
+
+Reunited with my son klink and am all the happier for seeing him, genevieve has wandered off for a walk whilst Geoffrey has disappeared. Klink and I have discussed the scales, the genesis shard as well as the dragon and what to do with them, I would like to take them to the witches in the swamp homeland, also been informed that we now have a network and a revolution in the name of the crimson gears due to klinks followers named pages and keyleth. 
+
+Played about with the dragon and fed it some raw rabbit which it cooked itself, asked Gregory about getting a book on draconic language 
+
+He has taken me to the tower to speak with mother rotwood through a mirror who has advised that taking the dragon to the swamps isn't the best course of action as the dragons if they sense it there would come after it in force, the city is safer but to just keep moving it about, also told that telling Gregory about it wasn't great as he is recently the head. Discussed plans on establishment and upgrading the temple also found out that Chester is trying to infiltrate the iron fort and I gave warning that he was doing that hopefully they are safe. 
+
+## 9th of mormun 
+
+Geoffrey is upset his tulips were trampled, genevieve had dream date (actually dream date not real I think) now going to get something special as well as lemons, put down a deposit to collect at end of the day. 
+
+Going to speak with the dragon diplomat varim about the dragon and about a dragonic language book.. not sure how this conversation will go. 
+
+Actually went rather well, been advised to keep dragon underground or if I wanted to keep it safe take it to the heart of elven realm which is north been warned that to be careful as it goes into the feywild, find wood elf to guide us to elven realm. 
+
+Apparently I have now got the temple as a stronghold that jas been given the go ahead by Gregory and I have a swordmaster pledging themselves to me. 
+
+Gnome swordmaster by the name of Nim who I served with in the war who wished to better my sword manship and help look after the temple 
+
+Gave genevieve the earrings and she seemed to have liked them quite a bit, feel good about getting them for her. 
+
+## 17th of mormun 
+
+During my 8 days been investigating 2 murders and earned some coins and resting whilst learning some dragonic, also had some fun helping genevieve perform at the tavern.
+
+Kain a humanoid wrapped in bandages is now joining our stronghold. 
+
+Got into contact with a witch to ask about protection spells against teleportation and was led to college of storms in town to see about hiring a mage 
+
+Laycien laidon which means silver frond is chatting with us about it. 
+
+Been asked to look for the scientist ramus nightborne to see about runes for the high elf mage laycien. Only to visit during daytime and not beyond the threshold of his home. 
+
+Briefly met Trilla the sorcerer supreme (likely a vanity title) the blue tiefling again who was entertained that I had gotten in the makes front door and I offered a possible job and a possible meal. Going to see about picking up potatoes and some gravy, might see about some pork and bacon. 
+
+Did so and made way back to the temple though genevieve is heading to the library for a bit, hoping she will have fun whilst I cook up some lovely dinner. 
+
+Meeting up with klink and dragon first to discuss laycien as well as read dragonic. 
+
+Genevieve and the dragon were messing with me for a week, granted it was well played but I told the dragon to sit and roll over so many times.
