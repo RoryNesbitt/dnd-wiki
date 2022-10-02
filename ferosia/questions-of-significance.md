@@ -2,7 +2,7 @@
 title: Questions from the godess
 description: 
 published: 0
-date: 2022-10-02T18:12:04.034Z
+date: 2022-10-02T18:42:09.278Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T20:56:49.030Z
@@ -30,3 +30,6 @@ Evident in this second question.  It is revealed why many maintain the theory th
 - What to you, is love?
 I am no philosopher my self, but shall analyse to the best of my ability. Love is an incredibly difficult concept to put into words.  It is a feeling that resides in all. I know of none my self who can describe what it is in its entirety.  What is love?  Maybe it is the face of the one you love?  The feeling of two hands intertwining.  A moment of silence, where the world and everything in it falls away, leaving that which cannot be spoken of, seen, but felt deep inside us. 
 - In life, what did you live for? 
+For every man or women.  There is a purpose that one may find or create for themself in their life.  No one can answer what the meaning of life is.  We can only make one of our own design.  I live for peace, community, and to right the wrongs of our past so we can move forward into the future.  
+- What brought you joy in life? 
+
