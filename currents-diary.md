@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-09-28T18:53:41.262Z
+date: 2022-10-19T11:32:14.124Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -432,3 +432,65 @@ Did so and made way back to the temple though genevieve is heading to the librar
 Meeting up with klink and dragon first to discuss laycien as well as read dragonic. 
 
 Genevieve and the dragon were messing with me for a week, granted it was well played but I told the dragon to sit and roll over so many times.
+Been advised by Geoffrey to head to a tavern called the ball where there is an arena sort of area for people to knock the shit on of each other, should be fun. He and genevieve have went off into the city to do who knows what but they will be rejoining us later think. 
+
+Met with Gregor, spoke of halberk overhill son of Lord morgren asking for me by name, this should go well 
+
+Was advised by a grieving son to steer clear of general Eugene if he does seek me out. 
+
+Taking klink out to the ball but he has stopped by a rundown shop and a couple of folks said they were the governors men and were wanting something the previous owner had, they are thinking of me as dumb, probably for the best I am not the brightest. 
+
+Got to the ball and had a mock fight with my son, in it I might have went a bit far in performance insulting him whilst he was a gnome saying I've taken shits bigger than him and for some weird reason heard someone say that I should wish me a new face, I lost the fight intentionally, got a free drink off an elderly chap that bet against me and suggested I go to a clinic to check my wounds, I'm just making my way back to the regular parts of the city and have healed my own wounds. 
+
+Caught up with klink and Geoffrey but they seemed to be having a heated argument. 
+
+Got back to the temple and heard that genevieve was sitting outside the gate for a time.. I think everyone could use something nice for the night so I made some strawberry tarts. 
+
+Geoffrey wasnt in his room so I left a tart and a note saying if he wants to talk about anything I would be there 
+
+Tried genevieves guest room and she wasn't there, left a tart and a note saying I heard she was outside the temple gate for a time and I was hoping she was OK and asking if it was anything to do with what happened with Geoffrey and klink. Whilst being there I figured out the riddle that Solace was puzzled with, if the candle was lit then the meal was already cooked means that the answer was already there, got some warm glows from the flames around hoping that means Solace is content, I asked him to help watch over my friends. 
+
+Going to find klink and he is not in his room... I don't leave a note but I do leave a tart for him. 
+
+I sit in my office and look through the yuan ti book and see about scars and the more pain given maximises more power taken from the soul, if genevieve had these same marks does that mean she was meant to be a sacrifice, if so as it a botched one or did something come of this as she is still alive and have snakish scales....
+I'll ask her about this in the morning, just want to figure out how best to go about it. 
+
+The book burned and there was a demonic face with a laugh about it as it disappeared.. I need to ask genevieve. 
+
+Wound up cooking up bacon for the others and having a mental chat with genevieve about the book, she seems to be open about her being a yuan ti (I know right) and what happened with her, but she seemed to to think the trader had something to do with the face in the fire, also said about a trader giving genevieve a pendant that granted her her warlock powers but didn't say about the patron that gave it, its a bit concerning but I trust genevieve with my life, I want to help her as much as I can. 
+
+Dreamed about the world that Solace inhabits and he spoke to me about a World made above the abyss by one of Solace siblings and angels went down to there to face the evil creatures and have been turned into devil's, I've asked Solace to watch over my friends and inquired about what I should do, he said that if I wish to deal with the gold dragon that I should head north, I I wanted to find out more about the yuan ti mystery and the creature from the deadzone head west, I was also said that if I wanted to avoid those to head east but there is something equally challenging that direction 
+
+## 18th of Mormun 
+
+I woke up to see the letter L burned into my pillow.. I can only guess that this might be the creature from the deadzone, I will figure out more about them
+
+Asked pages about looking into necromancy and yuan ti to get to the bottom of the life force being used for a devil's purposes, been advised to not look into it and take last night as a warning sign 
+
+Spoken to Geoffrey about keeping an eye on genevieve and making sure she is OK, also offered to help him get what he needs for planting. He advised me to get wolfsbane and 
+ask klink about sulphuric acid 
+
+Got klink to help me with the acid and apologised for the mock fight last night
+Also purchased 1 kilo of wolfsbane, used 1 platinum for it when it cost 5 gold so next one should be free
+Making way back to the temple and past by gregor spoke about the devil burning a book and he is furious with me cause I didn't notify him sooner and he is working on temple protections. 
+
+Got to talking with gene for a little bit and I just feel like I made things weird and apparently I am confusing a lot of folk with the fact I am helping with Geoffrey's tulips, probably not the best thing for me to do but I am wanting to help a friend at least.
+Surina is name of golden dragon and klink has called a meeting and it has resulted in us moving north to find the elves so we are taking keyleth with us to get to the city 
+
+Been advised by gregor to keep klink under wraps and give better pseudonyms 
+
+## 20th of Mermun 
+
+Passing the drowned bay  and visiting the governor 
+Told about numerous robed figures inquiring about crimson gears been asked to look into South of border in camp
+Large wide and muscular with taloned feet 
+
+Investigating a mining camp and are now ambushed by 2 robed fires one with withe scales and another green scales.
+
+We managed to dispatch them and caused a cave in in the mines where the rest of them remain, now maijng way to govenors House to get some rest and report back. 
+
+Relayed information and he escorted me to my room and said my elven father was asking after me out of curiosity and said I should take a breath and remember to look toward the sun. We talked a little about my mother, I do miss her and would like to settle down after our business and maybe relax for a while. 
+
+## 21st of Mermun 
+
+Woken to breakfast and making journey on ferry when we spotted archives shack and have asked him about making new enchantments to rings instead of stones he has asked us to aquire a cut gem from a roderick ironwood.
