@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-10-19T11:32:14.124Z
+date: 2022-11-13T12:21:22.985Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -494,3 +494,45 @@ Relayed information and he escorted me to my room and said my elven father was a
 ## 21st of Mermun 
 
 Woken to breakfast and making journey on ferry when we spotted archives shack and have asked him about making new enchantments to rings instead of stones he has asked us to aquire a cut gem from a roderick ironwood.
+
+We have made our way across the water and heading northward towards the forest discussing going hunting. 
+
+## 23rd of Mermun 
+
+Received message from uncle caelyn saying that the elves didn't succeed in taking down the dragonborn and they are tracking us. 
+
+Being asked to talk to a human professor of anthropology Eleanor and give her a big book along the way north. 
+
+## 24th of Mermun 
+
+Resuming journey and now have 4 dragonborn meet up with us in front by way of portal, we have now engaged them in combat to keep surina rom them.
+
+Lost one of our horses been saved by a silver dragon called Garvan leader of the hatchery. Said that my uncle got in touch with them and asked for their help, told us there is a farm west and to go there, Garvan has taken our carriage to there. 
+
+Farmer Martin is in charge of the farm. He see.s happy to feed us and have us as guests in his home for 3 days. 
+
+He and his family are quite lovely and wholesome, makes me strive for the nice simple life a lot more. 
+
+## 1st of Vulmar 
+
+Awoke and having offered my service I am assisting big Bertha (Martins wife) by milking cows and keeping the milks in separate barrels
+
+Came back in to learn some languages and ran into Sally their daughter gave me some lovely things to say to my father when I next see him, 
+
+Sat down to a meal with them and talked about things in the city going on so gene and geoffrey will be accompanying Martin and Sally into the city whilst I help out with the farm, klink isn't responding to me but did hear he was watching surina learning to fly. Hope he is OK. 
+
+Talked with Garvin about surina and was told setting only I should know, debating writing it down in case one of the others read it, it had to do with surinas mother and why dragons haven't been appearing for a while. 
+
+After doing so I spoke with klink who is wanting to give surina a break and take her into town tomorrow but Garvan is wanting to accompany them to keep surina safe, it feels like he is getting ready to get in a fight from what I hear and I don't wish for klink to be my mistakes with dragons and I tried asking him to take some heed from garvans wisdom  and see that garvan is meeting klink halfway by accompanying them into town. 
+
+Had fun chat and think everyone has simmered down and even had a laugh with the family as Sally has shown she is able to do magic which they have taken to positively, afterwards due to genevieve asking Garvan has taught us how to take care of a dragon properly. 
+
+## 2nd of Vulmar. 
+
+Woke up to investigate a giant hole being made in Martins carriage and barn and it  turns out thay it was the result of a 3 foot tall murine (sounds like mirren) by the name of Sir Caine who was trying to get bedding for his wife who is expecting 7 children if gods be willing and I got Bertha to give him that as well as some dried food in the form of bread to help feed them as well as get him to help protect Martins farm in exchange for bedding and food, this has by far been one of the best mornings I've had so far, I need to learn more about the murine when possible. Now accompanying keyleth to the woods so she may get some elven tools.
+
+Was contacted by Geoffrey saying that he got the book delivered and got us more than a fair share of payment, gene and klink have got the horse but they have also lost Sally at the moment, I tried to offer the idea of having Garvan smell for her but they don't have anything of hers, I just asked for them to keep me posted, told them about sir Caine but they thought I was on the hooch, to be fair don't know if I would have believed me. 
+
+Keyleth is currently talking to some trees... seems like a nice conversation, can't make head nor tail of it. 
+
+Gotten back to the farm and heard that Sally has found her way into some ruins, I asked gene if she wanted help finding her from there so will be joining
