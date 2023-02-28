@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2022-11-13T12:21:22.985Z
+date: 2023-02-28T12:43:49.819Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -536,3 +536,108 @@ Was contacted by Geoffrey saying that he got the book delivered and got us more 
 Keyleth is currently talking to some trees... seems like a nice conversation, can't make head nor tail of it. 
 
 Gotten back to the farm and heard that Sally has found her way into some ruins, I asked gene if she wanted help finding her from there so will be joining
+
+We came across this underground temple which we have descended into, we killed 3 yuan ti and got information from the fourth about numbers and an uneasy alliance with the naga, we sent Garvan first to investigate and I think I am going to be used as a prisoner being led by gene as she has a knack for espionage it seems, the plan to get the people out and deal with these merciless bastards.
+
+Well it went as well as could have been, managed to get Sally and several people out, genevieve apparently got possessed by a snake god but is saying she is ok, we have met with an arch mage of the college of flame by the name of Cassandra Pheonique (said like fennic) who was watching after surina and sent the rest of the missing villagers away, said over the years the forest has been quarantined because folks were going missing so much. 
+
+She asked us to give Martin the message that she would be visiting to go over Sally's application to the college. Klink is wanting to have a meeting about strangers and information giving.
+
+## 3rd of Vulmar 
+
+Had our meeting discussing privacy and journeying to Elemvault to get information on the poison that killed the first mother rotwood and the other witches, who commissioned it and why. 
+
+Taught Sally shocking grasp so that she knows how to defend herself in case she is kidnapped or hurt and mother has not taken to klinks dagger training very well and I said something about Sally being kidnapped, shit is not looking good 
+
+Learned more on genesis shard that alchemist made the prison and had to be someone else that knows genesis shards extensively, 3 major players have a piece, elf Queen, a dragon Prince and an unknown, builders society might know more and might be some suspects. 
+
+Dr Eleanor and a dwarven fellow might know more. 
+
+The mirine have arrived and are staying in the fortress (the barn) looking after it, they think of Bertha as a messiah (made the dragons go away without shooing) and now just training klink with a rapier again. 
+
+## 4th of Vulmar 
+
+Sally is now away with her uncle Marcus to learn magic at the college of fire and Garvan has entrusted us with Serena, been advised to stick to the paths as gods may 
+
+Journeyed through the city and followed the path onto the path to the elves, me and keyleth have been good so far however everyone else seems in a daze of sorts though Geoffrey did wander to the forests a bit, we got him back immediately, now resting whilst gene Geoffrey and keyleth take watch. 
+
+## 5th of Vulmar 
+
+Woke up and saw a dryad that tried to charm klink and klink shot a firebolt at it and now we are progressing to the elves after sleeping and I made some breakfast for tue others in the form of eggs and potato's after klink made cool things and we have now encountered a fey spirit with antlers and a lions body with an ox tail and a wolf head and fox tail.
+
+Spirits name is meadow and they got us to answer some riddles which we answered successfully and are following to the path of the forest elves 
+
+Encountered a gemstone covered tiny dragonborn and we assisted them in taking down a gem golem, they are called tequila rose, they eat amethyst and got here through several portals, taking them with us to elven village. They are quite different in the fact they pulled off their tail and used it to smack the golem about and they wound up kicking their eye to moisten it. I quite like them as does surina but everyone else is wary 
+
+Making our journey to the town of olymanaes which I'm guessing is the elven village, gotten to there now and it is far more than a village, its a city and it looks grand. 
+
+Turns out this is one of 5 capitals, makes this journey a little confusing as we don't know who to see. 
+
+It has rules which we follow which is same as any city but more severe with punishments, onyx statue is an actual dragon which elves are hoping won't wake up anytime soon. 
+
+Entered into the Palace after an invitation from what seems to be the elven Queen so making myself look presentable. 
+
+Met the old elf King who has given his rule to his daughter. Asked her about genesis shards as well as fixing my sword and shield and imbueing the sword with magical properties, also asked about finding a djinn
+
+## 7th of Vulmar 
+
+Got told by the blacksmith about an ingot at the bottom of the canyon that can help make my sword magical but it has been crawling with dangerous creatures (mollusc and insectoid and rock you name it it probably has it) so will need assistance. 
+
+Asked the others about getting the mineral but most were not in favour of it. 
+
+Encountered a moment where it seemed like genevieve was talking with herself in a sassy way, kins of concerning but raises questions. 
+
+Melve the coroner was investigating a body in a home where somehow at least 2 laws have been broken and there is a dead body, very odd 
+
+Klink has taken good note of what has happened and what might be missing is a pendant with am animal carved into it, blood footprint seemed a bit paw printing with 5 finger appendage 
+
+Klink has Queens permission to investigate and is with me. 
+
+Investigation is ongoing.
+
+Tracks lead towards the forest at the edge of the city so we are following them at the moment, still paw prints but lengthened handprints make me feel like it may well be lycan. 
+
+OK cut out a cube of a footprint in the ground and compared it with the townsfolk that have been locked in and its quite clear I'm not intimidating or winning any popularity contests due to their reactions. At the very least I have made genevieve laugh so not a total lose for the day. 
+
+Genevieve tried talking with a suspect and they were called astra from Mymthas said some weird things in surface thoughts such as physical changes and possibly killing gene when she asked questions, was scared for her but impressed she managed to keep her cool during the encounter, lost astra but we at least know where her home is which matches with noras diary entry about someone she knew from mymthas 
+
+Case continues to be ongoing.
+
+Seems this tavern serves 2 beverages.. water that changes to many different flavours and blood, we have found astras more humanoid looking parter dead in one of the tavern rooms within the span of 20 minutes she has been killed and laid peacefully on the floor. Wound is one slice along the neck so it was quick and clean in comparison to the other, so this time they knew what they were doing. 
+
+It was astra, she stabbed me in back and said to tell drysylla that the carac is coming, gene did that quickly. 
+
+She disappeared using a tablet and klink used one we got off a dragonborn and we have been transported to the bloody centre of daadendria volkanos and gene managed to get us to a place called the broken tooth which is in the slums of the city. The lady is a pink tiefling called alise who is taking us to meet with Thorne who is a dragonborn wearing white robes with a veil who seems to be looking after children of this city, it is troubling as he said the city has been this way for centuries. Thorne says he needs us to liberate his people and is the avatar of mystery. 
+
+Thorne is a golden dragonborn one of the last ones to ever exist as Solace has informed me.
+
+##10th of Vulmar 
+
+We have been laying low in slums of volkanos and we are to try and free a silver dragonborn who is in the custody of the butcher, silver dragonborn is named Balazar, the second is a copper dragonborn named Nadar 
+
+To search beneath the catacombs of the red dragon castle for nadar 
+
+Madrash is the butcher holding Balazar. 
+
+Been encountered by an avatar of subterfuge, several exotic animals being prepped by butcher so we have a few days time to prepare 
+Could potentially free animals to cause a distraction. 
+
+Aresh is a black dragonborn who is the warden of the dragonborn prisons. There is a a lake of acid which some prisoners are on a small island in it so prisoners may fall in and die? 
+
+We are getting a tour of the city from Alise and been told not to show weakness so essentially don't show care for anyone else. 
+
+In city at least any time there are 12 regular dragons not including ancient dragons. 
+
+Made my prayer to Solace to help give insight into where nadar was being kept, he responded with a vision from a birds eye view flying into the keep and the catacombs, been given sight of nadar in fine clothes and a bit bruised on one of the tiny islands before the bird was eaten by one of the twin dragons. 
+
+##11th of Vulmar 
+
+We have made our way to the keep where I tried to get us into the door with no success so gene stepped in pretending to be my mistress and I her thrall, we pretended to be dropping klink off for the prison amd they let us in, klink was taken away and me gene and tequila all fought the one guard and tried to follow after to help klink and nadar escape this prison.
+
+We have managed to kill one of the 2 black dragons and make our escape with nadar and get back to the broken tooth where I am being summoned to chat after nadar went down. 
+
+Spike, avatar of subterfuge, gave me eclipse as payment, someone had left the elven city and lost themselves in the fey wild. Think Serena. Have let genevieve (wishing to title her slayer after killing 2nd dragon) know and hopefully we will sort this. 
+
+Also an dragonborn elder has spoke highly of me and has met me many time, 3 options are Garvan, zho and varim. Wondering which of them it was. Now just enjoying a sauna with my son. 
+
+Left the sauna to see Geoffrey and keyleth return from recon at the butchers and it has effected them both strongly, can't say I blame them, genevieve is looking quite worried at the moment, probably thinking about Serena, I can only hope everything will be alright, Solace watch over them all.
