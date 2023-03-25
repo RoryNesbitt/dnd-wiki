@@ -2,7 +2,7 @@
 title: Varius
 description: The continent and birthplace of magic
 published: 1
-date: 2022-08-03T12:03:59.136Z
+date: 2023-03-25T15:40:57.946Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-27T20:11:30.837Z
