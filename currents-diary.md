@@ -2,7 +2,7 @@
 title: Current's Diary
 description: 
 published: 1
-date: 2023-02-28T12:43:49.819Z
+date: 2023-03-25T16:26:05.765Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-29T22:22:02.756Z
@@ -611,7 +611,7 @@ She disappeared using a tablet and klink used one we got off a dragonborn and we
 
 Thorne is a golden dragonborn one of the last ones to ever exist as Solace has informed me.
 
-##10th of Vulmar 
+## 10th of Vulmar 
 
 We have been laying low in slums of volkanos and we are to try and free a silver dragonborn who is in the custody of the butcher, silver dragonborn is named Balazar, the second is a copper dragonborn named Nadar 
 
@@ -630,7 +630,7 @@ In city at least any time there are 12 regular dragons not including ancient dra
 
 Made my prayer to Solace to help give insight into where nadar was being kept, he responded with a vision from a birds eye view flying into the keep and the catacombs, been given sight of nadar in fine clothes and a bit bruised on one of the tiny islands before the bird was eaten by one of the twin dragons. 
 
-##11th of Vulmar 
+## 11th of Vulmar 
 
 We have made our way to the keep where I tried to get us into the door with no success so gene stepped in pretending to be my mistress and I her thrall, we pretended to be dropping klink off for the prison amd they let us in, klink was taken away and me gene and tequila all fought the one guard and tried to follow after to help klink and nadar escape this prison.
 
@@ -641,3 +641,52 @@ Spike, avatar of subterfuge, gave me eclipse as payment, someone had left the el
 Also an dragonborn elder has spoke highly of me and has met me many time, 3 options are Garvan, zho and varim. Wondering which of them it was. Now just enjoying a sauna with my son. 
 
 Left the sauna to see Geoffrey and keyleth return from recon at the butchers and it has effected them both strongly, can't say I blame them, genevieve is looking quite worried at the moment, probably thinking about Serena, I can only hope everything will be alright, Solace watch over them all.
+
+## 12 of Vulmar 
+
+Had breakfast with interesting conversations and made a plan to find the butchers place whilst Geoffrey and keyleth investigate the red door at the mountain where a dragon flew in. 
+
+Encountered an elder dragonborn called mehen who seems like a nice enough fella actually. He apparently challenged Prince rune at one point and lost. 
+
+Now encountered a green lizard called kron who has offered to help us find the silver dragonborn for the payment of 3 gold a day and traveling with us preparing the meat. 
+
+We have helped keyleth and been led to the third tier of where the bodies are kept for the butcher,kron and klink were momentarily dead for a moment until gene helped stabilise them, after a bit more time we found pur dear balazar and are making our escape. We have also picked up a tag along mindflayer.
+
+We managed to escape a hydra that was there so it should be a good distraction for whoever works at the butchers. Our tag along is called an Illithid who originally came from the stars it seems, Qhebhal is its name, gotten back to the broken tooth and folks are watching our new acquaintance rather curiously staring, we got word from Thorne that we will be able to get a flight later but will need to stay in the catacombs for some hours, I helped heal keyleths wounds a bit more but noticed that klink kinda feigned care about how she was and then promptly left to question the alien a bit more, i get he loves to learn about advanced things but wish he did show more care about folks especially if they are meant to be working for him. 
+
+## 13 of Vulmar 
+
+In dream Solace had given me an experience going past many stars, clouds and marbles of many different colours and many different sun's simply being told there are many worlds but ours is home to them. Guessing he meant the illithid but not sure. 
+
+Told gene about my dream as we are journeying for our ride out of here and she made a joke about dreaming about going to hell but it seemed like it was honest as well. Also feel a bit like I had an acupuncture during the night as tequila was sleeping on top of me. 
+
+Now we have some dragons taking us to a golden city called auroras and the one I am riding is a brass dragon who seems to recognise me upon conversing with him I found out it is Varim and we chatted a bit, he didn't say about Serena but I informed him of our exploits and how we got to volkanos. 
+
+Arrived in city and me and tequila are taking on a job from Mildred a silver dragoness who wants us to retrieve a satchel in the ruins filled with dry goods in exchange for unknown gemstones. 
+
+We investigated the ruins and encountered some drakes who had the satchel and tried to offer a peaceful resolution but it didn't go well so had to take 3 of them down but we returned the satchel and a silver brooch to rightful owners and got gems and silver for it. 
+
+We picked up miscellaneous pieces of leather cloth and every day items. We have now also noticed that Serena has appeared and that she has grown somewhat apparently was in the fey realm for more than 6 years maybe 7.
+
+Klink has made a helmet for me which should help keep me from being surprised in battle which was kind of him, we then took on a quest with tequila and gene to find out if the rumours of a giant in the ruins had any substance to it. 
+
+Turns out it does and the giant is none other than a family friend of tequilas however when we found him there were shadow tendrils things that were affecting the giant as well as a couple of drakes nearby, spoke of a dark beneath the deep, was eerie to say the least. 
+
+When we returned we got to playing a bit of liars dice and joint had given me a shield which face changes however I wish it to. 
+
+## 14 of vulmar 
+
+I got myself up to find a Longbow and some information on how we were going to get our carriage and we 
+
+Have agreed to getting a lift from varim where we can get everything in order though Serena wanted to stay in the city so we have remained with her for the day.
+Also found out that the city of elemvault has given stewardship of the throne to the aurions. 
+
+##15 of vulmar we have awoken and saw to our business however we have been rushed by varim who has told us that there is a greater dragon on its way and we shouldn't remained, when he says greater he means as in evolution
+
+## 16 of vulmar 
+
+We are returning to the elven city. We have discovered that the Queen has went to the fey realm to investigate the shadowy sickness we encountered but in the forest. Had a deep chat with geoffrey and contemplating my actions as well as my faith. Someone passed me a drink after I made my prayer to Solace so unsure if it is an act of Solace or someone was just kind upon a stranger. We are now making our way home to elemvault. 
+
+## 24 of vulmar 
+
+Returned home and spoke with trilla and we have somehow managed to get a date tonight at one of the finest restaurants in the Upper echelons of the city, I can say I am looking forward to this, gregor seems to be in decent spirits at the moment.
