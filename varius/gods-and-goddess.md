@@ -1,11 +1,8 @@
 ---
 title: Names and functions of the deities of Varius
-description: 
-published: 1
-date: 2022-08-30T20:19:31.037Z
-tags: 
-editor: markdown
-dateCreated: 2022-07-29T10:46:03.562Z
+published: true
+created: 2022-07-29T10:46:03.562Z
+updated: 2022-08-30T20:19:31.037Z
 ---
 
 ## Mira 

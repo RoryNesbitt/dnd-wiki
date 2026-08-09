@@ -1,11 +1,8 @@
 ---
 title: Children of the devines
-description: 
-published: 1
-date: 2023-02-27T22:32:45.985Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-24T12:42:15.974Z
+published: true
+created: 2023-02-24T12:42:15.974Z
+updated: 2023-02-27T22:32:45.985Z
 ---
 
 # The building blocks of creation

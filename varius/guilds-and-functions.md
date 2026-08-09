@@ -1,11 +1,8 @@
 ---
 title: Guilds and their roles
-description: 
-published: 1
-date: 2022-07-29T11:28:31.196Z
-tags: 
-editor: markdown
-dateCreated: 2022-07-29T11:28:31.196Z
+published: true
+created: 2022-07-29T11:28:31.196Z
+updated: 2022-07-29T11:28:31.196Z
 ---
 
 ## Thieves guilds 

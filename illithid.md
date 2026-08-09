@@ -1,11 +1,8 @@
 ---
 title: From the stars by Klink
-description: 
-published: 1
-date: 2023-03-08T23:37:24.476Z
-tags: 
-editor: markdown
-dateCreated: 2023-03-07T08:01:12.811Z
+published: true
+created: 2023-03-07T08:01:12.811Z
+updated: 2023-03-08T23:37:24.476Z
 ---
 
 # Illithid

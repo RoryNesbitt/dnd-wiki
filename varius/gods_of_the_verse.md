@@ -1,11 +1,8 @@
 ---
 title: The gods and how we live in their light
-description: 
-published: 1
-date: 2023-03-24T23:37:08.299Z
-tags: 
-editor: markdown
-dateCreated: 2023-03-24T23:37:08.299Z
+published: true
+created: 2023-03-24T23:37:08.299Z
+updated: 2023-03-24T23:37:08.299Z
 ---
 
 # Gods and the Mortal world - BY Greggor Kandark, Leader of the Elemvault sanctuary of solace.

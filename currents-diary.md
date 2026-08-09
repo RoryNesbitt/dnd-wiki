@@ -1,11 +1,8 @@
 ---
 title: Current's Diary
-description: 
-published: 1
-date: 2023-03-25T16:26:05.765Z
-tags: 
-editor: markdown
-dateCreated: 2022-07-29T22:22:02.756Z
+published: true
+created: 2022-07-29T22:22:02.756Z
+updated: 2023-03-25T16:26:05.765Z
 ---
 
 My real name given by my mother is Castor Star. And as she married Erdan Mellenye I am now Castor Star Mellenye

@@ -1,11 +1,8 @@
 ---
 title: Klinks stuff
-description: 
-published: 0
-date: 2022-08-30T20:25:48.103Z
-tags: 
-editor: markdown
-dateCreated: 2022-08-30T20:25:48.103Z
+published: false
+created: 2022-08-30T20:25:48.103Z
+updated: 2022-08-30T20:25:48.103Z
 ---
 
 # A place for klink's notes

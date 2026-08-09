@@ -1,11 +1,8 @@
 ---
 title: Daadendrian encyclopedia
-description: an accumulated brief knowledge of the republic of Daadendria 
-published: 1
-date: 2023-02-23T16:59:03.728Z
-tags: 
-editor: markdown
-dateCreated: 2023-02-23T15:49:30.591Z
+published: true
+created: 2023-02-23T15:49:30.591Z
+updated: 2023-02-23T16:59:03.728Z
 ---
 
 # Daadenrian republic synopsis By professor Benjamin Eccart of Elemvault university

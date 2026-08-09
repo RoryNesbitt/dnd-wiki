@@ -1,11 +1,8 @@
 ---
 title: Minutes/Hours/days/weeks/months/year
-description: 
-published: 1
-date: 2022-07-29T11:07:38.009Z
-tags: 
-editor: markdown
-dateCreated: 2022-07-29T11:07:38.009Z
+published: true
+created: 2022-07-29T11:07:38.009Z
+updated: 2022-07-29T11:07:38.009Z
 ---
 
 ## How do people track time?
@@ -21,6 +18,3 @@ Not all need to follow the same simplistic concept.  The seasons are such an exc
 - summer holds with three months to its cycle.  Giving the farmers and fishermen a decent chance to grow and harvest crops and build up their food stores.  The shortness of the season has made for very efficient methods of which to mass produce the maxmimum volume of crops to survive the lengthy year ahead.
 - Autum, while the most beautiful of the seasons, is tragically the shortest.  Despite its time only consisting of two months of the year, the people do not mourn such a brief period.  The quickness of which Autum comes and goes is symbolic with life and death.  A demonstration that while something, or indeed someone, is beautiful and full of life. That it must someday come to an ened.  The importance of enjoying and appreciating that which is here now, but will one day be gone, is never lost.  Thus Autum holds the largest number of Religious holidays and ceremonies.
 - winter is quick to arrive, and if one is not careful, devastating.  Winters, especially on Varius, are deadly affairs.  Snow comes faster than the dark grey clouds and rapidly plumeting temperatures, which herald its arrival.  Industry has helped fight back the unyeilding cruelty of the season.  It does not however stop some families, in particular, children from dying in their homes, huddled around their pitiful fires.
-
-
-

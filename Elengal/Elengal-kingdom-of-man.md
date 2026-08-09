@@ -1,11 +1,8 @@
 ---
 title: Empire of Elengal
-description: 
-published: 1
-date: 2022-09-23T16:18:36.104Z
-tags: 
-editor: markdown
-dateCreated: 2022-09-23T16:18:36.104Z
+published: true
+created: 2022-09-23T16:18:36.104Z
+updated: 2022-09-23T16:18:36.104Z
 ---
 
 # Introduction to the Empire of Elengal

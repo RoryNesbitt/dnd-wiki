@@ -1,11 +1,8 @@
 ---
 title: Politics, culture and life in Elengal by Karasten Selencia
-description: 
-published: 0
-date: 2022-10-19T12:17:59.584Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T12:17:59.584Z
+published: false
+created: 2022-10-19T12:17:59.584Z
+updated: 2022-10-19T12:17:59.584Z
 ---
 
 # Introduction

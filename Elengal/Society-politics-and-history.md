@@ -1,11 +1,8 @@
 ---
 title: A brief look at Elengal history by Arch mage Laucian Laiden
-description: 
-published: 1
-date: 2022-09-23T19:02:51.713Z
-tags: 
-editor: markdown
-dateCreated: 2022-09-23T19:02:51.713Z
+published: true
+created: 2022-09-23T19:02:51.713Z
+updated: 2022-09-23T19:02:51.713Z
 ---
 
 # History

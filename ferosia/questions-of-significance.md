@@ -1,11 +1,8 @@
 ---
 title: Questions from the godess
-description: 
-published: 0
-date: 2022-10-02T22:03:20.334Z
-tags: 
-editor: markdown
-dateCreated: 2022-07-27T20:56:49.030Z
+published: false
+created: 2022-07-27T20:56:49.030Z
+updated: 2022-10-02T22:03:20.334Z
 ---
 
 # twelve days of sorrow, twelve days questions by Greggor seldar, Paladin of solace
@@ -37,4 +34,3 @@ This particular question i feel reveals another essential quality of the soul. I
 A very interesting question.  None really think about how they will spend their last day.  If they do, they often view it from the perspective of their current form and fitness.  If possible, i would spend it in quiet reflection and enjoying the sun one last time.  This is something only those who live it may answer.  I suppose one should wish to spend it in a way that gives them joy and peace.  
 - Where, what or with whom did you place the most value
 It is fair to say that what you valued could determine the type of person you were.  Full of selfishness and ambition.  Or with a heart of pure starlight and kindness.  I know i rant on and on about how one must seek joy and pleasure in simple things to maintain a humble and full soul.  But i dont think i can ever stress how important it is to ensure your soul is pure and good. 
-

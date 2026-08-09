@@ -1,11 +1,8 @@
 ---
 title: Tiefling faith and culture
-description: 
-published: 1
-date: 2023-04-11T11:02:06.097Z
-tags: 
-editor: markdown
-dateCreated: 2023-04-11T11:02:06.097Z
+published: true
+created: 2023-04-11T11:02:06.097Z
+updated: 2023-04-11T11:02:06.097Z
 ---
 
 # Tiefling society, by Cirilla Talon - virtue name "Hope"
