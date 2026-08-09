@@ -5,13 +5,13 @@ created: 2022-07-27T20:11:30.837Z
 updated: 2023-03-25T15:40:57.946Z
 ---
 
-# [Gascade](/gascade)
+# [[gascade|Gascade]]
 The woodland realms of the elves
-# [Ferosia](/ferosia)
+# [[ferosia|Ferosia]]
 The first humans kingdom of Varius
 # Island of Magic
 said to be the centre of magic in the world. Its root
-# [Ishma](/ishma)
+# [[ishma|Ishma]]
 southernmost kingdom of the island, home to the orcs
 # Anakis
 Largely the home of the tieflings. But other shunned peoples as well.
